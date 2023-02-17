@@ -16,6 +16,22 @@
             <dependent_value/>
             <element>u_requested_type</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Development</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:27:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_type</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resource</label>
             <language>en</language>
@@ -65,16 +81,16 @@
             <element>u_requested_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Development</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-15 14:27:46</sys_created_on>
+            <sys_created_on>2023-02-17 15:56:53</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <value>development</value>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
